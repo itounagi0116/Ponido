@@ -1,6 +1,6 @@
 # Ponido Gengo Dokumento (Ponido語仕様書)
 
-## Baso-1: Ponido-Gengo-no Zentai
+## Baso-1: Ponido言語の全体
 
 1. これがPonido:
    * Ponidoは新しい言語です。
