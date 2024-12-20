@@ -1,39 +1,43 @@
-# Ponido & e-Ponido Language
+## Ponido & e-Ponido Language
 
 ![ライセンスバッジ](https://img.shields.io/badge/ライセンス-MIT-007EC6)
 
 **Ponido** is a simplified and internationalized language based on the Japanese structure, with influences from the minimalist vocabulary of Toki Pona and the affix rules of Ido. The language aims to be easy to learn, adaptable, and usable across different cultures. **e-Ponido** is an extension of Ponido, incorporating AI technologies and expanding the language’s potential for use in virtual environments and technical applications.
 
-## Overview
+---
 
-### Ponido Language
+### Overview
+
+#### Ponido Language
 Ponido is designed with three core principles:
 - **Japanese sentence structure**
 - **Minimalist vocabulary based on Toki Pona**
 - **Affixation rules inspired by Ido**
 
-Ponido is designed to be simple, easy to learn, and useful across multiple cultures and languages.
+It emphasizes simplicity, cross-cultural usability, and easy learning.
 
-### e-Ponido
-e-Ponido expands upon the basic Ponido framework by integrating:
-- **AI technologies** such as RAG (retrieval-augmented generation) for context-based responses.
-- **MCP (multi-condition processing)** for complex logic and technical applications.
-- **Adaptability** for virtual reality (VR) and extended technical collaboration.
+#### e-Ponido Language
+e-Ponido builds upon Ponido, integrating:
+- **AI technologies** such as RAG (retrieval-augmented generation).
+- **MCP (multi-condition processing)** for advanced logic.
+- **Adaptability** to VR, AR, and technical collaboration.
 
-The goal of e-Ponido is to support community-driven evolution, facilitate international understanding, and promote virtual and technological integration.
+The goal of e-Ponido is to support community evolution, promote international understanding, and integrate with virtual and technological platforms.
 
-## Features
+---
 
-### 1. Language Structure
+### Features
+
+#### 1. Language Structure
 - **Phonetics**: 
   - Vowels: `a, i, u, e, o`
   - Consonants: `k, s, t, n, h, m, r, y, w`
-  - The language follows a CV (consonant-vowel) structure.
+  - Simple CV (consonant-vowel) combinations.
 - **Writing System**: 
-  - Uses **Latin script** for simplicity.
-  - **Ponido-specific characters** may be introduced in the future for cultural enrichment.
-  
-### 2. Grammar Rules
+  - Primarily **Latin script** for accessibility.
+  - Ponido-specific characters may be introduced for cultural enrichment.
+
+#### 2. Grammar Rules
 - **Word Order**: 
   - **SOV (Subject-Object-Verb)** structure.
   - Example: `Mi-ga koto-o tsukuru` (I create language).
@@ -58,12 +62,12 @@ The goal of e-Ponido is to support community-driven evolution, facilitate intern
   - `-li`: Adverb-forming suffix.
   - `-ka`: Imperative suffix.
 
-### 3. Vocabulary
-- **Basic Vocabulary**: 50–200 words.
-- **International Roots**: Words like `tempo` (time), `futuro` (future), `spaco` (space), `mov` (movement), `krea` (create).
-- **Vocabulary Criteria**: Simplicity, necessity, applicability, and international recognition.
+#### 3. Vocabulary
+- **Core Vocabulary**: 50–200 essential words.
+- **International Roots**: Words like `tempo` (time), `futuro` (future), `krea` (create).
+- **Criteria**: Simplicity, necessity, and international recognition.
 
-### 4. Numbers & Calculations
+#### 4. Numbers & Calculations
 - **Basic Numbers**:
   - `1`: un
   - `2`: du
@@ -71,61 +75,68 @@ The goal of e-Ponido is to support community-driven evolution, facilitate intern
   - `4`: kvar
   - `5`: kvin
 - **Operations**:
-  - Addition: `un-plus-du-wa tri-desu` (1 + 2 = 3)
-  - Subtraction: `tri-minus-un-wa du-desu` (3 - 1 = 2)
-  - Multiplication: `du-multi-du-wa kvar-desu` (2 * 2 = 4)
-  - Division: `kvar-divid-du-wa du-desu` (4 ÷ 2 = 2)
+  - `un-plus-du-wa tri-desu` (1 + 2 = 3)
+  - `tri-minus-un-wa du-desu` (3 - 1 = 2)
+  - `du-multi-du-wa kvar-desu` (2 × 2 = 4)
+  - `kvar-divid-du-wa du-desu` (4 ÷ 2 = 2)
 
-### 5. AI and Technical Integration (e-Ponido)
-- **RAG**: Enhances understanding by incorporating context into the responses.
+#### 5. AI and Technical Integration (e-Ponido)
+- **RAG (Retrieval-Augmented Generation)**:
   - Example: `Sistema-ga teksto-o analizu-desu` (The system analyzes the text).
   
-- **MCP**: Multi-condition processing allows for more complex conditional logic.
+- **MCP (Multi-Condition Processing)**:
   - Example: `Se kondicio-1-wa vera-desu` (If condition 1 is true).
 
-### 6. Community and Cultural Expansion
-- **Group Activities**: Engage in forum discussions and voting for language updates.
-- **Cultural Integration**: Collect idioms, create cultural stories, and promote international collaboration.
+#### 6. Community and Cultural Expansion
+- **Activities**: Forums for feedback, voting, and collaborative development.
+- **Cultural Focus**: Idioms, stories, and global integration.
 
-### 7. Learning System
-- **Learning Tools**: 
-  - **Text-based**: Simple stories, examples, and dialogues.
-  - **Audio-based**: Pronunciation guides and learning videos.
-  - **Smart Learning**: Vocabulary and math quizzes through apps, with AI-powered feedback.
+#### 7. Learning Tools
+- **Learning Resources**: Text, audio guides, and AI-powered apps.
+- **Progress Tracking**: Community-driven learning tools with feedback loops.
 
-- **Progress Tracking**: Community-driven feedback and tracking of learning progress.
+#### 8. Future Development
+- **Vocabulary Growth**: Additions based on global needs.
+- **Technological Integration**: AI/NLP, VR/AR applications.
 
-### 8. Future Development
-- **Expansion of the Vocabulary**: New terms and concepts will be added based on community needs.
-- **Technical Tools**: Advanced use cases in AI/NLP, VR/AR environments, and educational applications.
+---
 
-## Example Sentences
+### Example Sentences
 
-### Simple Conversations
+#### Simple Conversations
 - **Mi-ga koto-o mana**: I learn language.
 - **Ana-ga lingvo-o krea-desu**: Ana creates language.
 - **Mi-ga un-plus-du-wa tri-desu**: 1 + 2 = 3.
 
-### Cultural Stories
-- **Short Story**:
-  ```eponido
-  Robot-ga homo-o helpu-desu.        # The robot helps the human.
-  Homo-ga robot-ni dankema-desu.     # The human thanks the robot.
-  Du-ga amiko-ni devenu-desu.        # They become friends.
-  ```
+#### Short Story
+```eponido
+Robot-ga homo-o helpu-desu.        # The robot helps the human.
+Homo-ga robot-ni dankema-desu.     # The human thanks the robot.
+Du-ga amiko-ni devenu-desu.        # They become friends.
+```
 
 ---
 
-## How to Contribute
-1. **Join the Community**: Participate in discussions and share feedback on language improvements.
-2. **Contribute New Vocabulary**: Suggest new words or phrases that could enrich the language.
-3. **Collaborate on AI & Tech Projects**: Help integrate AI, VR, or AR tools with the Ponido language.
+### How to Contribute
+1. **Join Discussions**: Share ideas for language improvements.
+2. **Suggest Vocabulary**: Propose new words or phrases.
+3. **Collaborate on Tech**: Help with AI/VR/AR projects.
 
-For more information or to contribute, please visit our [GitHub repository](https://github.com/itounagi0116/Ponido_e-Ponido).
+For more information, visit the [GitHub repository](https://github.com/itounagi0116/Ponido_e-Ponido).
 
 ---
 
 ### License
 This project is open-source and licensed under the MIT License.
+
+---
+
+### [MyGPT](https://chatgpt.com/g/g-67657a886b9c819199425eb6da3df3ee-ponido-fan-yi-kaito)
+
+As an interactive support system for learning Ponido, ChatGPT assists Ponido learners with the following tasks:
+
+- **Practice Exercises**: Practice grammar and vocabulary.
+- **Interactive Learning**: Learn through conversational formats.
+- **Feedback**: Receive specific feedback based on learning progress.
 
 ---
