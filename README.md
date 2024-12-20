@@ -1,8 +1,6 @@
-以下は、提供された「Ponido」と「e-Ponido」の仕様書を元に作成したREADMEファイルの例です。このREADMEは、両者の特徴や目的、技術的な概要を簡潔に説明しています。
-
----
-
 # Ponido & e-Ponido Language
+
+![ライセンスバッジ](https://img.shields.io/badge/ライセンス-MIT-007EC6)
 
 **Ponido** is a simplified and internationalized language based on the Japanese structure, with influences from the minimalist vocabulary of Toki Pona and the affix rules of Ido. The language aims to be easy to learn, adaptable, and usable across different cultures. **e-Ponido** is an extension of Ponido, incorporating AI technologies and expanding the language’s potential for use in virtual environments and technical applications.
 
