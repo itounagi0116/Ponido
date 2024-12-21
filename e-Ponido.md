@@ -1,101 +1,107 @@
-# e-Ponido Specifikasio Dokumento
----
-
-## 1. Fundamenta-Koncepto
-
-### 1.1 e-Ponido-Defino
-- **Ponido-baso-ekspando**:
-  - Simpla-strukturo bazita sur Ponido-gengo.
-  - Filosofia-simpleco kaj internacia-kongruo.
-- **Integro-kun-artific-intel-teknologio**:
-  - **RAG**: Enhavo-serĉado kaj ekspando.
-  - **Multi-Kondicio-Proceso**: Por kompleksa-logiko kaj teknologia-kunteksto.
-- **Adaptivo-kaj-ekspando**:
-  - Komunuma-evoluo.
-  - Teknologia-kunlaboro kun virtual-real-sistemo.
-
-### 1.2 Telo-de-e-Ponido
-- Komuna-grupo-ga lingvo-o subtenu.
-- Virtual-real kaj teknologia-integriĝo posi.
-- Internacia-uzebleco kaj universala-kompreno posi.
+# **e-Ponido Specifikasio Dokumento (e-Ponido Gengo-ponido)**
 
 ---
 
-## 2. Sono-Skribo-Sistemo
+## **Baso-1: Fundamenta-Koncepto**
 
-### 2.1 Sono-Bazo
-- **Vokalo**: a, i, u, e, o.
-- **Konsonanto**: k, s, t, n, h, m, r, y, w.
-- **Sono-Regulo**:
-  - Sono-strukturo: CV (konsonanto + vokalo).
+### **1.1 e-Ponido-no Defino**
+- **Ponido-o kakucho**:
+  - Ponido-no tan-i-na kotoba-to bunpo-o shiyo.
+  - Filosofia-no tan-i-to kokusai-no goi-ni jushi.
+- **AI Gijutsu-no Togo**:
+  - **RAG**: Tekisuto kensaku-to kakuchou.
+  - **MCP**: Fukuzatsu-na joken-to gijutsu-o process.
+- **Tekio-to Kakujo**:
+  - Kyodo-tsukuru koto-o jushi.
+  - VR-to AR-to no renkei.
 
-### 2.2 Skribo-Sistemo
-- **Latina-literumo**: 1 sono = 1 litero.
-- **Ponido-skribo-eblo**: Futuro-ni kultura-skribo-sistemo posi.
+### **1.2 e-Ponido-no Mokuteki**
+- **Kyodo**: Multi-kuni-no hito-o shiji.
+- **Gijutsu**: VR/AI-no shiyo-o kasoku.
+- **Kokusai**: Hiroku rikai kanou.
 
 ---
 
-## 3. Gramatiko-Regulo
+## **Baso-2: Oto-to Ji System**
 
-### 3.1 Ordo-Bazo
-- **SOV-Strukturo**:
-  ```eponido
-  Mi-ga numero-o studi-desu.   # Mi lernas numerojn.
-  Ana-ga lingvo-o krea-desu.   # Ana kreas lingvon.
+### **2.1 Oto Kousei**
+- **Boin**: a, i, u, e, o  
+- **Shiin**: k, s, t, n, h, m, r, y, w  
+- **Oto Ruru**:  
+  - CV (Shiin + Boin) desu.  
+
+### **2.2 Ji System**
+- **Roma-ji**: 1-oto = 1-ji.
+- **Ponido-ji**: Kongo, bunka-teki ji system-o tsukuru kanou.
+
+---
+
+## **Baso-3: Bunpo Ruru**
+
+### **3.1 Junjo**
+- **SOV Bunkei**:
+  ```plaintext
+  Mi-ga numero-o studi-desu.   # Mi wa suji-o manabu.
+  Ana-ga lingvo-o krea-desu.   # Ana wa gengo-o tsukuru.
   ```
 
-### 3.2 Partikulo-Sistemo
-- **-ga**: Indikas aganton (subjekton).
-- **-o**: Indikas objekton.
-- **-wa**: Indikas temon (topikon).
-- **-ni**: Indikas lokon.
-- **-e**: Indikas direkton.
+### **3.2 Joshi System**
+- **-ga**: Shugo-o shimesu.
+- **-o**: Mokuteki-o shimesu.
+- **-wa**: Shudai-o shimesu.
+- **-ni**: Basho-o shimesu.
+- **-e**: Muki-o shimesu.
 
-### 3.3 Tempo-Sistemo
-- **Verbo-finaĵo**: -u.
-- **Tempo-Partikuloj**:
-  - **tempo-pase**: Pasinteco.
-  - **tempo-futuro**: Estonteco.
+### **3.3 Jisei System**
+- Doshi wa "-u" de owaru.
+- **Jisei**:
+  - Kako: *tempo-pase*  
+  - Ima: *tempo-now*  
+  - Mirai: *tempo-future*  
 
-### 3.4 Afikso-Regulo
-- **Nomo-formo**: -mo.
-- **Kvalito-formo**: -i.
-- **Maniero-formo**: -li.
-- **Ordono-formo**: -ka.
+### **3.4 Sekiji Ruru**
+- **Meishi-kei**: -mo.
+- **Keiyoshi-kei**: -i.
+- **Fukushi-kei**: -li.
+- **Meirei-kei**: -ka.
 
 ---
 
-## 4. Vorto-Ekspando
+## **Baso-4: Kotoba-to Kakucho**
 
-### 4.1 Vorto-Fundamento
-- **Bazo-vortaro**: 50-200 vortoj.
-- **Internacia-radiko**:
+### **4.1 Basic Kotoba**
+- **Kihon Goi**: 50-200 kotoba.
+- **Kokusai-teki Goi**:
   - tempo, futuro, spaco, mov, krea.
 
-### 4.2 Vorto-Evaluo
-- Neceso-konfirmo.
-- Simplo-konfirmo.
-- Internacia-kompreno posi.
-- Multi-uzo-eblo posi.
+### **4.2 Kotoba Hyouka**
+1. Hitsuyo-ka?  
+2. Tan-i-ka?  
+3. Kokusai-ni rikai kanou-ka?  
+4. Multi-ni shiyo kanou-ka?
 
 ---
 
-## 5. Numero-Kalkulo
+## **Baso-5: Sūshi System**
 
-### 5.1 Numero-Sistemo
-- **Baza-Nombrovico**:
-  ```eponido
+### **5.1 Sūshi no Kiso**
+- **Kihon Sūshi**:
+  ```plaintext
   1: un
   2: du
   3: tri
   4: kvar
-  5: kvin
+  5: kin
   ```
-- **Zero-kaj-dek-baso**: Planata por futuro-evoluo.
 
-### 5.2 Kalkulo-Operacioj
-- **Operacioj**:
-  ```eponido
+- **Ju-shinhou**:
+  - 20 → *du-deka*  
+  - 21 → *du-deka-un*  
+  - 1,234 → *un-mil-du-cent-tri-deka-kvar*  
+
+### **5.2 Keisan Ruru**
+- **Keisan Hyouji**:
+  ```plaintext
   Plus: un-plus-du-wa tri-desu.      # 1 + 2 = 3
   Minus: tri-minus-un-wa du-desu.   # 3 - 1 = 2
   Multi: du-multi-du-wa kvar-desu.  # 2 × 2 = 4
@@ -104,60 +110,71 @@
 
 ---
 
-## 6. Komunuma-Aktivo
+## **Baso-6: Kyodo Katsudo**
 
-### 6.1 Grupo-Aktivo
-- **Forumo-Diskuto**: Vortaro-kaj-regulo-propono.
-- **Votado-kaj-Feedback**: Regula-komunuma-voĉdono.
-- **Festa-Organizo**: Lingvo-kaj-kultura-eventoj.
+### **6.1 Gurupu Katsudo**
+- **Forumu Gijutsu**: Goi-to ruru-o teian.
+- **Hyoketsu-to Feedback**: Komyuniti-no teigi.
+- **Ibento Kaisai**: Gengo-to bunka-no ibento.
 
-### 6.2 Kultura-Ekspando
-- **Idiomo-Kolekto**: Naturaj-esprimoj el komunumo.
-- **Rakonto-Kreo**: Kultura-rakontado.
-- **Internacia-Lernado**: Interkultura-kunlaboro.
-
----
-
-## 14. Uzo-Ekzemplo-Kolekto
-
-### 14.1 Teknologia-Komuniko
-
-#### RAG-Uzo-Ekzemplo
-```eponido
-Sistema-ga teksto-o analizu-desu.        # Sistema analizas tekston.
-Konteksto-ga memoro-ni stoki-desu.       # Konteksto stokiĝas en memoro.
-Respondo-wa konteksto-baza-desu.         # Respondo baziĝas sur konteksto.
-```
-
-#### MCP-Uzo-Ekzemplo
-```eponido
-Se kondicio-1-wa vera-desu:              # Se kondiĉo 1 estas vera,
-  Ago-1-o faru-desu                      # Faru agon 1.
-Se kondicio-2-wa vera-desu:              # Se kondiĉo 2 estas vera,
-  Ago-2-o faru-desu.                     # Faru agon 2.
-```
+### **6.2 Bunka Kakucho**
+- **Kango Shuusei**: Shizen-na hyougen-o atsumeru.
+- **Monogatari Sakusei**: Bunka-teki story-o kaku.
+- **Kokusai Manabi**: Tagengo kyouryoku.
 
 ---
 
-## 15. Kultura-Rakontaro
+## **Baso-7: Gijutsu Togo**
 
-### 15.1 Simpla-Rakonto
-```eponido
-# Titolo: Teknologia-Amikeco
+### **7.1 RAG（Tekisuto Kakucho）**
+- **Reibun**：
+  ```plaintext
+  Sistema-ga teksto-o analizu-desu.        # Sistema wa tekisuto-o bunseki suru.
+  ```
 
-Robot-ga homo-o helpu-desu.           # Roboto helpas homon.
-Homo-ga robot-ni dankema-desu.        # Homo estas dankema al roboto.
-Du-ga amiko-ni devenu-desu.           # Ili fariĝas amikoj.
-```
+### **7.2 MCP（Fukuzatsu Joken Shori）**
+- **Reibun**：
+  ```plaintext
+  Joken-1-ga hontou no toki:               # Joken 1 ga makoto no toki:
+    Action-1-o okonau.                    # Akushon 1 o suru.
+  ```
 
 ---
 
-## 16. Avancita-Gramatiko
+## **Baso-8: Manabi to Ouyou**
 
-### 16.1 Kondiĉa-Esprimo
-```eponido
-Se pluvo-ga venu-desu:               # Se pluvas:
-  Mi-ga domo-ni restu-desu           # Mi restas hejme.
+### **8.1 Manabi Step**
+1. **Kihon Manabi**: Goi-to bunpo-o gakushu.
+2. **Kaiwa Renshu**: Nichijou-kaiwa-o keiko.
+3. **Sūshi-to Keisan**: Keisan Ruru-o jissou.
+
+### **8.2 VR/AR Renkei**
+- **VR Manabi**: Kyokou-genjitsu ni yoru gakushu.
+- **AR Tool**: Genjitsu no renshu shien.
+
+---
+
+## **Baso-9: Hyoka to Hatten**
+
+### **9.1 Data Tsuikei**
+- Manabi kiseki-to shinchoku-o kiroku.
+- Komyuniti feedback-o shuu.
+
+### **9.2 Kenkyu Renkei**
+- Gakujutsu Repo.
+- Tagengo Kenkyu.
+
+---
+
+## **Baso-10: Bunka Monogatari**
+
+### **10.1 Tankan Story**
+```plaintext
+# Taitoru: Gijutsu-to Yuujou
+
+Robot-ga hito-o tasukeru.           # Robotto wa hito o tasukeru.  
+Hito-ga robotto-ni kansha suru.     # Hito wa robotto ni kansha suru.  
+Futari-ga tomodachi-ni naru.        # Futari wa tomodachi ni naru.  
 ```
 
 ---
