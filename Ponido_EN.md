@@ -1,233 +1,199 @@
-# Ponido Language Specification
-
-## Baso-1: Overview of Ponido Language
-
-1. About Ponido:
-   * Ponido is a new constructed language.
-   * It incorporates three key principles:
-     - Japanese language structure
-     - Toki Pona's minimal vocabulary
-     - Ido's affix rules
-
-2. Core Principles:
-   * Created by the community
-   * Easy to learn
-   * Understandable across multiple nations
+# **Ponido Language Specification (Ponido Gengo-ponido)**
 
 ---
 
-## Baso-2: Phonology and Script
+## **Baso-1: Overview of Ponido**
+### **Purpose**
+Ponido is a constructed language designed to enable mutual understanding among people from multiple countries.
 
-1. Phonology:
-   * Vowels: a, i, u, e, o
-   * Consonants: k, s, t, n, h, m, r, y, w
-   * Phonological rule: Consonant + Vowel (CV structure)
+- **Three Key Points**:
+  1. Based on Japanese grammar structure.  
+  2. Adopts Tokipona's concise and clear vocabulary system.  
+  3. Incorporates Ido's systematic affix rules.
 
-2. Script System:
-   * Uses Roman letters
-   * One sound corresponds to one letter
-   * Future potential for Ponido-specific script
-
----
-
-## Baso-3: Grammar Rules
-
-1. Word Order:
-   * SOV order is used
-   * Examples:
-     - Mi-ga koto-o tsukuru (I create a language)
-     - Ana-ga ruru-o mana (You learn a rule)
-
-2. Particle System:
-   * -ga: Marks the subject
-   * -o: Marks the object
-   * -wa: Marks the topic
-   * -ni: Marks the location
-   * -e: Marks the direction
-
-3. Tense System:
-   * Verbs end with -u
-   * Tense expressions:
-     - Tempo-pase: Past
-     - Tempo-now: Present
-     - Tempo-future: Future
+- **Core Principles**:
+  - Created collaboratively.  
+  - Easy to learn.  
+  - Internationally comprehensible.
 
 ---
 
-## Baso-4: Vocabulary and Expansion Rules
+## **Baso-2: Sounds and Script**
+### **Ponido Phonology**
+- **Vowels**: a, i, u, e, o  
+- **Consonants**: k, s, t, n, h, m, r, y, w  
+- **Phonological Rules**:  
+  - CV structure (Consonant + Vowel).  
 
-1. Vocabulary Basics:
-   * Core vocabulary: 50-200 words
-   * Adopts international vocabulary
-   * Uses simple words
-
-2. Vocabulary Evaluation:
-   * Is it necessary?
-   * Is it simple?
-   * Is it versatile?
-   * Is it internationally understandable?
+### **Script System**
+- Uses Roman letters.  
+- A Ponido-specific script may be developed in the future.
 
 ---
 
-## Baso-5: Numeral System
+## **Baso-3: Grammar Rules**
+### **Word Order**
+- **SOV**: Subject-Object-Verb order is used.  
+  - Example: *I create a language* → *Mi-ga koto-o tsukuru*.  
 
-1. Core Numerals:
-   * Current stage:
-     - un (1)
-     - du (2)
-     - multi (many)
-   * Expandable:
-     - zero
-     - tri (3)
-     - kvar (4)
+### **Particles**
+- **-ga**: Marks the subject.  
+- **-o**: Marks the object.  
+- **-wa**: Marks the topic.  
+- **-ni**: Indicates location.  
+- **-e**: Indicates direction.
 
-2. Calculation Rules:
-   * Plus (add)
-   * Minus (subtract)
-   * Multi (multiply)
-   * Divid (divide)
-
----
-
-## Baso-6: Community Activities
-
-1. Online Meetings:
-   * Regularly scheduled meetups
-   * Decisions made through voting
-   * Sharing feedback
-
-2. Cultural Development:
-   * Activities related to festivals
-   * Creation of cultural idioms
-   * Multinational exchanges
+### **Tense System**
+- Verbs end with **-u**.  
+- **Tenses**:  
+  - Past: *Tempo-pase*  
+  - Present: *Tempo-now*  
+  - Future: *Tempo-future*
 
 ---
 
-## Baso-7: Learning System
+## **Baso-4: Vocabulary and Expansion Rules**
+### **Basic Vocabulary**
+- Initial vocabulary size: 50–200 words.  
+- International and concise words are prioritized.  
 
-1. Learning Tools:
-   * Text-based learning:
-     - Simple stories
-     - Conversation examples
-   * Audio-based learning:
-     - Audio videos
-     - Pronunciation rules
-
-2. Smart Learning:
-   * Learning via apps:
-     - Vocabulary quizzes
-     - Calculation quizzes
-   * AI Assistance:
-     - Automatic feedback
-     - Progress tracking
+### **Vocabulary Selection Criteria**
+1. Is the word necessary?  
+2. Is it easy to learn?  
+3. Can it be used in multiple contexts?  
+4. Is it internationally understandable?
 
 ---
 
-## Baso-8: Technological Tools
+## **Baso-5: Numeral System**
+### **Basic Numerals**
+| Number | Ponido Word | Origin |  
+|--------|-------------|--------|  
+| 0      | **zero**    | Latin  
+| 1      | **un**      | Ido  
+| 2      | **du**      | Ido  
+| 3      | **tri**     | Greek  
+| 4      | **kvar**    | Ido  
+| 5      | **kin**     | English (simplified "five")  
+| 6      | **ses**     | Latin  
+| 7      | **sep**     | Latin  
+| 8      | **okto**    | Greek  
+| 9      | **nau**     | Ido  
+| 10     | **deka**    | Greek  
 
-1. AI/NLP:
-   * Translation assistance
-   * Grammar checking
-   * Automatic feedback
+### **Construction Rules**
+1. **Tens**:
+   - 20 → *du-deka*  
+   - 30 → *tri-deka*  
+   - 21 → *du-deka-un*  
 
-2. VR/AR:
-   * Learning in virtual environments
-   * Overlaying onto the real world
-   * Smart quizzes
+2. **Hundreds and Thousands**:
+   - 100 → *cent*  
+   - 1,000 → *mil*  
+   - 1,234 → *un-mil-du-cent-tri-deka-kvar*  
 
----
-
-## Baso-9: Evaluation System
-
-1. Data Checking:
-   * Reviewing usage data
-   * Tracking learning progress
-   * Establishing feedback loops
-
-2. Research Integration:
-   * Academic reports
-   * Multilingual studies
-   * Future planning
-
----
-
-## Appendix: Vocabulary List
-
-1. Core Vocabulary:
-   * Verbs:
-     - tsukuru (create)
-     - mana (learn)
-     - iku (go)
-   * Nouns:
-     - koto (language)
-     - numera (number)
-     - bunka (culture)
-   * Adjectives:
-     - tan-i (simple)
-     - kokusai (international)
-     - multi (many)
+3. **Decimals**:
+   - Decimal point: **punta**  
+   - Example: 3.14 → *tri-punta-un-kvar*  
 
 ---
 
-## Appendix-2: Example Collection
+## **Baso-6: Community Activities**
+### **Online**
+- Periodic collaborative meetings.  
+- Decision-making and feedback through voting.
 
-1. Simple Conversations:
-   * Mi-ga koto-o mana:
-     - Mi: Ponido-wa tan-i desu-ka? (Is Ponido simple?)
-     - Ana: Hai, tan-i desu. (Yes, it is simple.)
-   * Learning Numerals:
-     - Mi: Un plus du wa nan desu-ka? (What is 1 + 2?)
-     - Ana: Un plus du wa tri desu. (1 + 2 = 3.)
-
-2. Story Collection:
-   * Simple Story:
-     "Un-hito-ga Ponido-o mana.
-      Koto-wa tan-i.
-      Multi-hito-to kaiwa-kanō."
-   * Cultural Story:
-     "Multi-kuni-no hito-ga matsuri-ni iku.
-      Tri-kane-o tsukuru.
-      Multi-hito-ga tanoshii."
+### **Cultural**
+- Organize Ponido festivals and cultural exchanges with people from multiple countries.  
+- Develop idioms and cultural stories.
 
 ---
 
-## Appendix-3: Practice Material
+## **Baso-7: Learning System**
+### **Learning Tools**
+1. **Text-Based**:
+   - Simple stories.  
+   - Example dialogues.  
+2. **Audio**:
+   - Practice pronunciation and phonological rules.  
 
-1. Learning Quizzes:
-   * Vocabulary Quiz:
-     - "What is this?" → "Language, Number..."
-     - "What is the antonym of simple?" → "Difficult"
-   * Calculation Quiz:
-     - "2 + 2 is?" → "4"
-     - "3 - 1 is?" → "2"
-
-2. Writing Practice:
-   * Simple Sentences:
-     - "I learn ___" (language/number/culture)
-     - "You are ___" (simple/difficult/lucky)
-   * Create Conversations:
-     - Topic: Festivals
-     - Topic: Learning time
-     - Topic: Numeral quiz
+### **Smart Learning**
+- Apps: Vocabulary quizzes, grammar exercises.  
+- AI: Automated feedback and progress tracking.
 
 ---
 
-## Implementation Guide
+## **Baso-8: Technical Tools**
+### **AI/NLP**
+- Translation assistance.  
+- Grammar checking.
 
-1. Start Steps:
-   * Week-1: Core vocabulary
-   * Week-2: Simple conversations
-   * Week-3: Numeral system
-   * Week-4: Cultural activities
+### **VR/AR**
+- Learn words and grammar in virtual environments.  
+- Practice in real-world scenarios using AR overlays.
 
-2. Development Plan:
-   * Month-1: Basic level
-   * Month-2: Conversational level
-   * Month-3: Cultural level
-   * Month-4: Creative level
+---
 
-3. Feedback Loop:
-   * Regular reviews
-   * Community feedback
-   * Updating plans
+## **Baso-9: Evaluation System**
+### **Data Monitoring**
+- Track learning data and progress.
 
+### **Research Integration**
+- Create academic reports.  
+- Collaborate with multilingual research initiatives.
+
+---
+
+## **Appendix 1: Vocabulary List**
+### **Verbs**
+- tsukuru (to create)  
+- mana (to learn)  
+- iku (to go)
+
+### **Nouns**
+- koto (language)  
+- numera (number)  
+- bunka (culture)
+
+### **Adjectives**
+- tan-i (simple)  
+- kokusai (international)  
+- multi (many)
+
+---
+
+## **Appendix 2: Example Sentences**
+### **Conversations**
+- *Mi-ga koto-o mana.*  
+  - Me: *Is Ponido simple?*  
+  - You: *Yes, it is simple.*  
+
+### **Numerals**
+- *What is 1 + 2?* → *1 + 2 is 3.*
+
+---
+
+## **Appendix 3: Practice Exercises**
+### **Vocabulary Quiz**
+1. *"What is this?"* → Language/Number  
+2. *"What is the opposite of 'simple'?"* → Difficult  
+
+### **Writing Practice**
+1. *"I learn ___."* → Language/Number/Culture  
+2. *"You are ___."* → Simple/Difficult/Lucky  
+
+---
+
+## **Implementation Guide**
+### **Startup Steps**
+1. Week 1: Learn basic vocabulary.  
+2. Week 2: Practice simple conversations.  
+3. Week 3: Study the numeral system.  
+4. Week 4: Explore cultural activities.
+
+### **Development Plan**
+1 Month: Basic understanding.  
+2 Months: Conversational level.  
+3 Months: Cultural fluency.  
+
+---
