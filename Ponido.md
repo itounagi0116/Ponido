@@ -1,233 +1,202 @@
-# Ponido Gengo Dokumento (Ponido語仕様書)
+---
 
-## Baso-1: Ponido-Gengo-no Zentai
-
-1. Kore-wa Ponido:
-   * Ponido-wa koto-arata desu
-   * San-punto-o motsu:
-     - Nippon-gengo-struktur
-     - Toki-pona-voka-tan
-     - Ido-afiks-ruru
-
-2. Telo-Baso:
-   * Komuniti-ga tsukuru
-   * Tan-i-de mana
-   * Multi-kuni-komuniti-ni wakaru
+# **Ponido Gengo Dokumento (Ponido Gengo-ponido)**
 
 ---
 
-## Baso-2: Oto-to-Moji
+## **Baso-1: Ponido-o subeta**
+### **Mi-wa tsukuru**
+Ponido wa multi-kuni-no hito-ga wakaru koto desu.
 
-1. Oto-Baso:
-   * Oto-tan: a, i, u, e, o
-   * Oto-kon: k, s, t, n, h, m, r, y, w
-   * Oto-rule: Oto-kon + Oto-tan
+- **Tri-tan-i pointo**:
+  1. Nihongo-no bunpo-o ruru.
+  2. Tokipona-no tan-i-na kotoba-o shiyo.
+  3. Ido-no sekiji-o shiyo.
 
-2. Moji-System:
-   * Roma-moji-o tuku
-   * Oto-1-mo Moji-1-desu
-   * Tempo-future-ni Ponido-moji-kanō
-
----
-
-## Baso-3: Gengo-Ruru
-
-1. Koto-Jyun:
-   * SOV-jyun-o tuku
-   * Ejemplo:
-     - Mi-ga koto-o tsukuru (私が言語を作る)
-     - Ana-ga ruru-o mana (あなたが規則を学ぶ)
-
-2. Parti-System:
-   * -ga: Actor-o simesu
-   * -o: Target-o simesu
-   * -wa: Topic-o simesu
-   * -ni: Basho-o simesu
-   * -e: Direkto-o simesu
-
-3. Tempo-System:
-   * Verbo-wa -u-de owaru
-   * Tempo-expresi:
-     - Tempo-pase: 過去
-     - Tempo-now: 現在
-     - Tempo-future: 未来
+- **Buntai ruru**:
+  - Kyodo-tsukuru.  
+  - Tan-i-ni mana.  
+  - Kokusai-ni wakaru.
 
 ---
 
-## Baso-4: Voka-to-Kakucho-Ruru
+## **Baso-2: Oto-to ji**
+### **Ponido-no oto**
+- **Boin**: a, i, u, e, o  
+- **Shiin**: k, s, t, n, h, m, r, y, w  
+- **Oto-ruru**:  
+  - Shiin + Boin (CV) desu.  
 
-1. Voka-Baso:
-   * Baso-voka: 50-200 koto
-   * Kokusai-voka-o tuku
-   * Tan-i koto-o motsu
-
-2. Voka-Hyoka:
-   * Hitsuyo-ka?
-   * Tan-i-ka?
-   * Tuku-kanō-ka?
-   * Kokusai-li wakaru-ka?
+### **Ji system**
+- Roma-ji desu.  
+- Kongo wa "Ponido-ji" o tsukuru koto arimasu.  
 
 ---
 
-## Baso-5: Numera-System
+## **Baso-3: Bunpo-ruru**
+### **Kotoba-no jun**
+- **SOV**: Shugo-Oku-Doshi desu.  
+  - Re: *Mi-ga koto-o tsukuru*.
 
-1. Numera-Baso:
-   * Baso-tempo-ni:
-     - un (1)
-     - du (2)
-     - multi (多数)
-   * Kakucho-kanō:
-     - zero
-     - tri (3)
-     - kvar (4)
+### **Joshi**
+- **-ga**: Shugo desu.  
+- **-o**: Mokuteki desu.  
+- **-wa**: Shudai desu.  
+- **-ni**: Basho desu.  
+- **-e**: Muki desu.
 
-2. Kalkul-Ruru:
-   * Plus (足す)
-   * Minus (引く)
-   * Multi (掛ける)
-   * Divid (割る)
-
----
-
-## Baso-6: Komuniti-Katsudo
-
-1. Online-Meet:
-   * Tempo-regular-ni meet
-   * Vote-de kakutei
-   * Feedback-o share
-
-2. Bunka-Hatsu:
-   * Matsuri-koto
-   * Bunka-idiom
-   * Multi-kuni-change
+### **Jisei system**
+- Doshi wa "-u" desu.  
+- **Jisei**:  
+  - Kako: *Tempo-pase*  
+  - Ima: *Tempo-now*  
+  - Mirai: *Tempo-future*
 
 ---
 
-## Baso-7: Mana-System
+## **Baso-4: Kotoba-to kakuchou**
+### **Kotoba-no genri**
+- Basic kotoba wa 50-200 desu.  
+- Kokusai-na kotoba-o shiyo.  
 
-1. Mana-Tool:
-   * Text-mana:
-     - Tan-story
-     - Kaiwa-ejemplo
-   * Oto-mana:
-     - Oto-video
-     - Into-ruru
-
-2. Smart-Learn:
-   * App-mana:
-     - Voka-quiz
-     - Kalkul-quiz
-   * AI-help:
-     - Auto-feedback
-     - Progress-check
+### **Kotoba ruru**
+1. Hitsuyo desu ka?  
+2. Tan-i desu ka?  
+3. Multi-ni shiyo dekiru ka?  
+4. Kokusai-ni rikai dekiru ka?
 
 ---
 
-## Baso-8: Tekno-Tool
+## **Baso-5: Sūshi system**
+### **Basic sūshi**
+| Sūshi | Ponido-go | Gogen |  
+|-------|-----------|-------|  
+| 0     | **zero**  | Latina  
+| 1     | **un**    | Ido  
+| 2     | **du**    | Ido  
+| 3     | **tri**   | Greko  
+| 4     | **kvar**  | Ido  
+| 5     | **kin**   | Eigo  
+| 6     | **ses**   | Latina  
+| 7     | **sep**   | Latina  
+| 8     | **okto**  | Greko  
+| 9     | **nau**   | Ido  
+| 10    | **deka**  | Greko  
 
-1. AI-NLP:
-   * Translate-help
-   * Check-system
-   * Auto-feedback
+### **Kousei ruru**
+1. **Jū no ichi**:
+   - 20 → *du-deka*  
+   - 30 → *tri-deka*  
+   - 21 → *du-deka-un*  
 
-2. VR-AR:
-   * Virtual-mana
-   * Real-world-overlay
-   * Smart-quiz
+2. **Hyaku-to-sen**:
+   - 100 → *cent*  
+   - 1,000 → *mil*  
+   - 1,234 → *un-mil-du-cent-tri-deka-kvar*  
 
----
-
-## Baso-9: Hyoka-System
-
-1. Data-Check:
-   * Use-data-miru
-   * Progress-check
-   * Feedback-loop
-
-2. Research-Connect:
-   * Gaku-report
-   * Multi-gengo-study
-   * Future-plan
-
----
-
-## Appendix: Voka-List
-
-1. Baso-Voka:
-   * Verbo (動詞):
-     - tsukuru (作る)
-     - mana (学ぶ)
-     - iku (行く)
-   * Nomino (名詞):
-     - koto (言語)
-     - numera (数)
-     - bunka (文化)
-   * Adjektivo (形容詞):
-     - tan-i (簡単な)
-     - kokusai (国際的な)
-     - multi (多い)
+3. **Shosū**:
+   - 3.14 → *tri-punta-un-kvar*  
 
 ---
 
-## Appendix-2: Ejemplo-Collection
+## **Baso-6: Kyodo-katsudo**
+### **Online**
+- Periodo-no kyodo mitingu.  
+- Hyo-ketsu & feedback desu.
 
-1. Tan-Kaiwa:
-   * Mi-ga koto-o mana:
-     - Mi: Ponido-wa tan-i desu-ka?
-     - Ana: Hai, tan-i desu.
-   * Numera-mana:
-     - Mi: Un plus du wa nan desu-ka?
-     - Ana: Un plus du wa tri desu.
-
-2. Story-Collection:
-   * Tan-Story:
-     "Un-hito-ga Ponido-o mana. 
-      Koto-wa tan-i. 
-      Multi-hito-to kaiwa-kanō."
-   * Bunka-Story:
-     "Multi-kuni-no hito-ga matsuri-ni iku.
-      Tri-kane-o tsukuru.
-      Multi-hito-ga tanoshii."
+### **Bunka**
+- Ponido matsuri, kyo-wa multi-kuni-to no bunka-o tsukuru.  
+- Kango-to story-o tsukuru.
 
 ---
 
-## Appendix-3: Practice-Material
+## **Baso-7: Manabi-system**
+### **Manabi tool**
+1. **Tekisuto**:
+   - Tan-i-na story.  
+   - Kaiwa-reibun.  
+2. **Oto**:
+   - Oto-to hatsuon-o benkyou suru.  
 
-1. Mana-Quiz:
-   * Voka-Quiz:
-     - "Kore-wa nan desu-ka?" → "Koto, Numera..."
-     - "Tan-i antonym-wa?" → "Muzukashi"
-   * Kalkul-Quiz:
-     - "Du plus du wa?" → "Kvar"
-     - "Tri minus un wa?" → "Du"
-
-2. Write-Practice:
-   * Tan-Bun:
-     - "Mi-ga ___ -o mana" (koto/numera/bunka)
-     - "Ana-wa ___ desu" (tan-i/muzukashi/un-i)
-   * Kaiwa-Make:
-     - Topic: Matsuri
-     - Topic: Mana-time
-     - Topic: Numera-quiz
+### **Sumaato system**
+- Appu: kotoba quiz, bunpo renshuu.  
+- AI: jido-feedback, shinchoku-kanri.  
 
 ---
 
-## Implementation-Guide
+## **Baso-8: Gijutsu tool**
+### **AI/NLP**
+- Hon-yaku.  
+- Bunpo-check.
 
-1. Start-Step:
-   * Week-1: Baso-voka
-   * Week-2: Tan-kaiwa
-   * Week-3: Numera-system
-   * Week-4: Bunka-katsudo
+### **VR/AR**
+- Virtual reality de kotoba-o benkyou.  
+- AR de genjitsu-renshu.  
 
-2. Develop-Road:
-   * Month-1: Baso-level
-   * Month-2: Kaiwa-level
-   * Month-3: Bunka-level
-   * Month-4: Create-level
+---
 
-3. Feedback-Loop:
-   * Regular-check
-   * Komuniti-feedback
-   * Update-plan
+## **Baso-9: Hyoka system**
+### **Data check**
+- Renshu data-o tsuikase.  
+- Progress-o kanshi.
 
+### **Kenkyu**
+- Gakujutsu repo.  
+- Multi-gengo-kenkyu.  
+
+---
+
+## **Furoku 1: Kotoba list**
+### **Doshi**
+- tsukuru (tsukuru)  
+- mana (manabu)  
+- iku (iku)
+
+### **Meishi**
+- koto (koto)  
+- numera (sū)  
+- bunka (bunka)
+
+### **Keiyoshi**
+- tan-i (tan-i)  
+- kokusai (kokusai)  
+- multi (multi)
+
+---
+
+## **Furoku 2: Reibun**
+### **Kaiwa**
+- *Mi-ga koto-o mana.*  
+  - Mi: *Ponido-wa tan-i desu-ka?*  
+  - Ana: *Hai, tan-i desu.*  
+
+### **Sūshi**
+- *Un plus du wa nan desu-ka?*  
+- *Un plus du wa tri desu.*
+
+---
+
+## **Furoku 3: Renshu**
+### **Kotoba quiz**
+1. *"Kore wa nan desu-ka?"* → Koto/sū  
+2. *"Tan-i no hantai wa?"* → Muzukashii  
+
+### **Sakubun**
+1. *"Mi-ga ___ o mana."* (koto/sū/bunka)  
+2. *"Ana wa ___ desu."* (tan-i/muzukashii/kōun)
+
+---
+
+## **Jissou Gaido**
+### **Kaishi Step**
+1. 1-shu: Basic kotoba.  
+2. 2-shu: Tan-i-na kaiwa.  
+3. 3-shu: Sūshi system.  
+4. 4-shu: Bunka katsudo.  
+
+### **Hatten Keikaku**
+1-kagetsu: Beginner.  
+2-kagetsu: Kaiwa.  
+3-kagetsu: Bunka.  
+
+---
