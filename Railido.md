@@ -2,7 +2,7 @@
 
 ---
 
-#### **Baso-1: Railido-Gengo-no Zentai**
+## **Baso-1: Railido-Gengo-no Zentai**
 
 1. **Railido-o subeta**  
 Railido wa multi-kuni-no ressha-gyomu-o tan-i-ni tsukuru gengo desu.  
@@ -19,7 +19,7 @@ Railido wa multi-kuni-no ressha-gyomu-o tan-i-ni tsukuru gengo desu.
 
 ---
 
-#### **Baso-2: Oto-to Ji**
+## **Baso-2: Oto-to Ji**
 
 1. **Oto ruru**  
    - **Boin**: a, i, u, e, o  
@@ -32,7 +32,7 @@ Railido wa multi-kuni-no ressha-gyomu-o tan-i-ni tsukuru gengo desu.
 
 ---
 
-#### **Baso-3: Bunpo Ruru**
+## **Baso-3: Bunpo Ruru**
 
 1. **Kotoba jun**  
    - **SOV**: Shugo-Mokuteki-Doshi.  
@@ -54,7 +54,7 @@ Railido wa multi-kuni-no ressha-gyomu-o tan-i-ni tsukuru gengo desu.
 
 ---
 
-#### **Baso-4: Kotoba to Kakuchou**
+## **Baso-4: Kotoba to Kakuchou**
 
 1. **Kiso kotoba**  
    - Doshi:  
@@ -74,7 +74,7 @@ Railido wa multi-kuni-no ressha-gyomu-o tan-i-ni tsukuru gengo desu.
 
 ---
 
-#### **Baso-5: Sūshi System**
+## **Baso-5: Sūshi System**
 
 1. **Basic Sūshi**  
    | Sūshi | Railido | Gogen |  
@@ -98,7 +98,7 @@ Railido wa multi-kuni-no ressha-gyomu-o tan-i-ni tsukuru gengo desu.
 
 ---
 
-#### **Baso-6: Railido Operesyon**
+## **Baso-6: Railido Operesyon**
 
 1. **Hyoujun Furezu**  
    - Tochakusuru: *Ressha un-ga eki du-ni torai*.  
@@ -111,7 +111,7 @@ Railido wa multi-kuni-no ressha-gyomu-o tan-i-ni tsukuru gengo desu.
 
 ---
 
-#### **Baso-7: Manabi System**
+## **Baso-7: Manabi System**
 
 1. **Manabi tool**  
    - **Kotoba kado**: E o tsukatta renshuu.  
@@ -123,7 +123,7 @@ Railido wa multi-kuni-no ressha-gyomu-o tan-i-ni tsukuru gengo desu.
 
 ---
 
-#### **Baso-8: Gijutsu Tool**
+## **Baso-8: Gijutsu Tool**
 
 1. **AI/NLP**  
    - Hon-yaku, jido-genzai no kotoba o purezen.  
@@ -135,7 +135,7 @@ Railido wa multi-kuni-no ressha-gyomu-o tan-i-ni tsukuru gengo desu.
 
 ---
 
-#### **Furoku: Kotoba List**
+## **Furoku: Kotoba List**
 
 - **Doshi**  
   - *stopu*: Teishi suru  
@@ -148,7 +148,7 @@ Railido wa multi-kuni-no ressha-gyomu-o tan-i-ni tsukuru gengo desu.
 
 ---
 
-#### **Jissou Gaido**
+## **Jissou Gaido**
 
 1. **Shuukan plan**  
    - 1-shu: Kiso kotoba.  
