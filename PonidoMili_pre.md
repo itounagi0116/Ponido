@@ -1,4 +1,7 @@
-Ponido-Gengo Dokumento: NATO/CSTO対応軍事言語仕様書
+# MilCom: NATO/CSTO対応軍事言語仕様書
+
+
+---
 
 Baso-1: 言語概要
 
@@ -257,4 +260,5 @@ NATOおよびCSTO共同演習での実用テスト。
 
 
 ---
+
 
